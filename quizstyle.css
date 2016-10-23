@@ -15,16 +15,30 @@ body {
 iframe{
 float: right;
 }
- 
+
 h4{
 	font-family: 'Dekko', cursive;
 	text-align: center;
 	font-size: 50px;
-	margin-top: 100px
+	margin-top: 100px;
+	color: red;
+}
+
+h5{
+font-family: 'Shadows Into Light Two', cursive;
+text-align: center;
+font-size: 50px;
+margin-top: 100px;
+color: red;
 }
 
 img{
 	width: 230px;
 	height: 165px;
 	display: inline;
+}
+
+img{
+	margin: auto;
+	display: block;
 }
